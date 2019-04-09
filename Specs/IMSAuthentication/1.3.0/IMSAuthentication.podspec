@@ -16,3 +16,4 @@ Pod::Spec.new do |s|
   s.dependency 'IMSApiClient', '1.4.0'
   s.dependency 'IMSLog' , '1.0.3'
 end
+1
